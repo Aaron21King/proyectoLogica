@@ -34,7 +34,10 @@
         </tbody>
 
     </table>
-    <button type="button" class="btn btn-danger">Aaron Enciso</button>
+    <button type="button" >Aaron Enciso</button>
+    <button type="button" >21</button>
+    <button type="button" >Sistemas Computacionales</button>
+    
 
    
 

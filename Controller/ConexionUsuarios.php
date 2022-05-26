@@ -6,6 +6,6 @@ $con = new Conexion();
 
 $usuarios = $con->getUsers();
 
-require('Views/V_verUsuarios.php');
+require('Views/Usuarios.php');
 
 ?>

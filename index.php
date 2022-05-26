@@ -1,3 +1,3 @@
 <?php
-    require('Controller/C_verUsuarios.php');
+    require('Controller/ConexionUsuarios.php');
 ?>
